@@ -1,6 +1,2 @@
-Programa criado em Python
-
-Para executar o programa:
-1- verificar em que pasta está o ficheiro "main.py"
-2- abrir a linha de comandos e ir até à pasta onde está o ficheiro
-3- executar a linha de comando "python main.py"
+Programa criado em Python.
+Percorre uma matriz e valida se existe pokemon nessa posição, apanha se ainda não tiver sido visitada, não apanha se já foi visitada anteriormente.
